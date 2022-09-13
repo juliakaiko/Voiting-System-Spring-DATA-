@@ -1,0 +1,3 @@
+com\step\springmvcapp\configuration\HibernateConfiguration.class
+com\step\springmvcapp\configuration\WebConfiguration.class
+com\step\springmvcapp\configuration\WebInitializer.class
